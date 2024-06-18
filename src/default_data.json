@@ -1,0 +1,46 @@
+{
+    "adverbial": [
+        "Im ICE",
+        "An der Kasse",
+        "Beim Schaukeln",
+        "Bei Vollmond",
+        "Am Strand",
+        "Auf dem Weihnachtsmarkt",
+        "Auf dem Polizeirevier",
+        "An einem heißen Tag",
+        "In der Küche"
+    ],
+    "verb": [
+        "kontrolliert",
+        "bezahlt",
+        "beeindruckt",
+        "sucht",
+        "knipst",
+        "schenkt mir",
+        "streichelt",
+        "vergisst",
+        "kocht"
+    ],
+    "subject": [
+        "der Schaffner",
+        "Tante Doris",
+        "Lukas",
+        "ein uralter Mönch",
+        "jeder",
+        "die Verkäuferin",
+        "meine Mama",
+        "eine kleine Honigbiene",
+        "das Nachbarskind"
+    ],
+    "object": [
+        "meinen Papa",
+        "meine Eintrittskarte",
+        "den Briefträger",
+        "frische Kräuter",
+        "den Sonnenuntergang",
+        "eine Tafel Schokolade",
+        "meine roten Backen",
+        "die roten Schuhe",
+        "die Tomatensuppe"
+    ]
+}
