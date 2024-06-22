@@ -8,7 +8,19 @@
         "Auf dem Weihnachtsmarkt",
         "Auf dem Polizeirevier",
         "An einem heißen Tag",
-        "In der Küche"
+        "In der Küche",
+        "Bevor es dunkel wird",
+        "Verborgen in einer Höhle",
+        "In der Schule",
+        "In den Ferien",
+        "Mitten auf der Straße",
+        "An meinem Geburtstag",
+        "Am Horizont",
+        "Im Aufzug",
+        "Im Fernsehen",
+        "Jeden Morgen",
+        "In der Badewanne",
+        "Vor dem Abendessen"
     ],
     "verb": [
         "kontrolliert",
@@ -19,7 +31,19 @@
         "schenkt mir",
         "streichelt",
         "vergisst",
-        "kocht"
+        "kocht",
+        "untersucht",
+        "testet",
+        "lobt",
+        "versteckt",
+        "findet",
+        "verschlingt",
+        "beschützt",
+        "verzaubert",
+        "beckleckert",
+        "ärgert",
+        "beschnuppert",
+        "zeigt mir"
     ],
     "subject": [
         "der Schaffner",
@@ -30,7 +54,19 @@
         "die Verkäuferin",
         "meine Mama",
         "eine kleine Honigbiene",
-        "das Nachbarskind"
+        "das Nachbarskind",
+        "mein Zahnarzt",
+        "Opa Pedro",
+        "keiner",
+        "der schwarze Kater",
+        "die Klavierlehrerin",
+        "der Osterhase",
+        "ein Schneemann",
+        "Pauline",
+        "Pippi Langstrumpf",
+        "das Schweinchen",
+        "unser Hund",
+        "Herr Pipapo"
     ],
     "object": [
         "meinen Papa",
@@ -41,6 +77,18 @@
         "eine Tafel Schokolade",
         "meine roten Backen",
         "die roten Schuhe",
-        "die Tomatensuppe"
+        "die Tomatensuppe",
+        "den Torwart",
+        "den neuen Hut",
+        "das Geheimrezept",
+        "vier fette Heringe",
+        "einen Bademantel",
+        "ein dickes Buch",
+        "die Alpen",
+        "ein Glas Wasser",
+        "die Tischdecke",
+        "den Busfahrer",
+        "den Schinken",
+        "eine Schatzkiste"
     ]
 }
