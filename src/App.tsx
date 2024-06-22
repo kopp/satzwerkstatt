@@ -58,13 +58,11 @@ const App: React.FC = () => {
   })();
 
   const pickRandom = () => {
-    for (const ref of references) {
-      const maxLen = Math.max(...data.map((l) => l.length));
-      const rand = Math.floor(maxLen * Math.random());
-      console.log(`rotating ${rand}`);
-      for (let i = 0; i < rand; i++) {
-        ref.current?.next();
-      }
+    for (let i = 0; i < data.length; i++) {
+      const ref = references[i];
+      const maxIndex = data[i].length;
+      const rand = Math.floor(maxIndex * Math.random());
+      ref.current?.goTo(rand);
     }
   };
 
