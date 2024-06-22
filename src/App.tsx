@@ -9,9 +9,9 @@ import defaultData from "./default_data.json";
 
 const contentStyle: React.CSSProperties = {
   margin: 0,
-  height: "16vh",
+  height: "10vh",
   color: "#fff",
-  lineHeight: "8vh",
+  lineHeight: "5vh",
   textAlign: "center",
   background: "#364d79",
 };
