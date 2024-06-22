@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import React, { useRef, useEffect } from "react";
 
 import "./App.css";
 
@@ -65,6 +65,11 @@ const App: React.FC = () => {
       ref.current?.goTo(rand);
     }
   };
+
+  // randomize once on startup
+  useEffect(() => {
+    pickRandom();
+  }, []);
 
   return (
     <>
